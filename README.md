@@ -13,7 +13,8 @@ Add your timetable.
 ### STEP 4
 Execute the program.
 
-## CODE:-
+## CODE:
+~~~
 <!DOCTYPE html>
 <html>
  <head>
@@ -80,6 +81,7 @@ Execute the program.
    </body>
 </html>
 </html>
+~~~
 
 # OUPUT:-
   ![output](/output/imgg.png)
